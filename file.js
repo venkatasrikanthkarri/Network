@@ -1,6 +1,8 @@
 alert(prompt('This is gonna be your life'))
 
-for(i in 5){
-alert(prompt('Enter your numbers: '));
 
-}
+// for(i in 5){
+// alert(prompt('Enter your numbers: '));
+
+// }
+console.log('hiii');
